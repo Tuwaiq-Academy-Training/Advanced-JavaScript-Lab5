@@ -51,6 +51,7 @@ create an array of characters that has these properties (name, height, gender, m
 ## The output Should like this:
 ![Output]
 
-![Uploading JSON-lab-output.png…]()
+<img width="1004" alt="JSON-lab-output" src="https://user-images.githubusercontent.com/92260175/187864057-3b056ac2-8f79-4f4a-b2b3-c3fd9da2a415.png">
+
 
 [Rick and Morty Api](https://rickandmortyapi.com/documentation/#rest)
