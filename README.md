@@ -40,4 +40,15 @@ create an array of characters that has these properties (name, height, gender, m
 ## The output Should like this:
 ![Output](JSON-lab-output.png)
 
+# The Rick and Morty API
+
+<img src="giphy.gif">
+
+- Figure out how to access the images and names key with their values.
+- Display these values in grid.
+
+
+## The output Should like this:
+![Output](JSON-lab-output.png)
+
 [Rick and Morty Api](https://rickandmortyapi.com/documentation/#rest)
