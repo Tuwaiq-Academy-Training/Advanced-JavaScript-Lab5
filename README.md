@@ -42,7 +42,7 @@ create an array of characters that has these properties (name, height, gender, m
 
 # The Rick and Morty API
 
-<img src="giphy.gif">
+![image](https://user-images.githubusercontent.com/92260175/187862534-ff5941cc-15f7-4929-b144-9b2cfe451e01.gif)
 
 - Figure out how to access the images and names key with their values.
 - Display these values in grid.
